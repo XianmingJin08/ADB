@@ -1,0 +1,8 @@
+insert 10 20
+scan -1 -1
+print
+delete 15 20
+scan
+print
+stats
+quit
